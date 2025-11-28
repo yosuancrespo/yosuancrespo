@@ -113,7 +113,7 @@ Senior QA Automation Engineer, Project Manager & Entrepreneur helping teams ship
 - 🧪 **[cypress-aetherium-e2e](https://github.com/yosuancrespo/cypress-aetherium-e2e)**  
   Cypress E2E specs for the Play4Testing sample app (register, login, image recognition).
 
-- 🧱 *(Planned)* **qa-automation-playwright-template**  
+- 🧱 *(Planned)* **[qa-automation-playwright-template](https://github.com/yosuancrespo/qa-automation-playwright-template/)**  
   Opinionated starter template for Playwright-based UI automation (coming soon).
 
 ---
