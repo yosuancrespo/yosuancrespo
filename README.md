@@ -118,6 +118,25 @@ Senior QA Automation Engineer, Project Manager & Entrepreneur helping teams ship
 
 ---
 
+### Other notable projects (startups & corporations)
+
+- 🌐 **[Blubird](https://www.getblubird.com/)**  
+  Web3 platform helping companies fast-track their transition into crypto and blockchain
+
+- 🛡️ **[Midnight Network](https://midnight.network/)**  
+  Bringing rational privacy to blockchain 
+
+- 🚐 **[RVshare](https://rvshare.com/)**  
+  The largest RV rental marketplace in the U.S. 
+
+- 📶 **[TELUS](https://www.telus.com/en/)**  
+  Major Canadian telecommunications provider 
+
+- 🏥 **[NYU Langone Health](https://nyulangone.org/)**  
+  Hospital associated with New York University 
+
+---
+
 ## Where to find me
 
 - 🌐 Personal site: [yosuancrespo.com](https://yosuancrespo.com)  
