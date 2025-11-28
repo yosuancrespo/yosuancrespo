@@ -1,6 +1,6 @@
 # Hi, I'm Yosuan 👋
 
-Senior QA Automation Engineer, Project Manager & Entrepreneur helping teams ship reliable software across **Web, Mobile, Web3 and APIs**.
+Senior QA Automation Engineer, Project Manager & Entrepreneur helping teams ship reliable software across **Web, Mobile, Blockchain/Web3 & APIs**.
 
 ---
 
@@ -120,16 +120,16 @@ Senior QA Automation Engineer, Project Manager & Entrepreneur helping teams ship
 
 ## Where to find me
 
-- 🌐 Personal site: [yosuancrespo.com](https://yosuancrespo.com) :contentReference[oaicite:10]{index=10}  
-- 💼 LinkedIn: [linkedin.com/in/yosuancrespo](https://www.linkedin.com/in/yosuancrespo) :contentReference[oaicite:12]{index=12}  
+- 🌐 Personal site: [yosuancrespo.com](https://yosuancrespo.com)  
+- 💼 LinkedIn: [linkedin.com/in/yosuancrespo](https://www.linkedin.com/in/yosuancrespo)  
 
 ---
 
 ## What I’m interested in
 
-- Designing **end-to-end QA strategies** for complex systems (FinTech, Web3, DeFi)
-- **Test automation frameworks** in TypeScript and Python
-- **Infrastructure for QA**: containers, cloud (OCI, AWS), CI/CD pipelines
+- Designing **end-to-end QA strategies** for complex systems (FinTech, Blockchain/Web3, DeFi, SaaS, other data-driven products and beyond)
+- **Test automation frameworks** across TypeScript, Python, Java and other stacks (Playwright, Cypress, Selenium, Appium, REST Assured)
+- **Infrastructure for QA**: containers and cloud platforms (OCI, AWS, Azure, GCP), Kubernetes and CI/CD pipelines
 - Using **AI to accelerate testing** without sacrificing quality
 
 If you’d like to collaborate on QA automation, Web3, or testing/DevOps tooling, feel free to reach out. 👇  
