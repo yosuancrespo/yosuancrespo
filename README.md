@@ -118,7 +118,7 @@ Senior QA Automation Engineer, Project Manager & Entrepreneur helping teams ship
 
 ---
 
-### Other notable projects (startups & corporations)
+## Other notable projects (startups & corporations)
 
 - 🌐 **[Blubird](https://www.getblubird.com/)**  
   Web3 platform helping companies fast-track their transition into crypto and blockchain
