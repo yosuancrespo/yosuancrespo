@@ -34,6 +34,7 @@ Senior QA Automation Engineer, Project Manager & Entrepreneur helping teams ship
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-782A90?style=for-the-badge&logo=appium&logoColor=white)
+![Tricentis Tosca](https://img.shields.io/badge/Tricentis%20Tosca-Model--based%20testing-0A66C2?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
