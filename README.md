@@ -163,10 +163,15 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 
 ## What I’m interested in
 
-- Designing **end-to-end QA strategies** for complex systems (FinTech, Blockchain/Web3, DeFi, SaaS, other data-driven products and beyond)
-- **Test automation frameworks** across TypeScript, Python, Java and other stacks (Playwright, Cypress, Selenium, Appium, REST Assured)
-- **Infrastructure for QA**: containers and cloud platforms (AWS, Azure, GCP, OCI), Docker, Kubernetes and CI/CD pipelines
-- Using **AI to accelerate testing** without sacrificing quality
+- 🏗️ **Designing scalable QA architectures** for complex systems (FinTech, Blockchain/Web3, DeFi, SaaS, other data-driven products and beyond).
+- 🤖 **Pioneering AI-Augmented Testing** workflows using LLMs, AI Agents (Copilot, Claude) and automated reasoning.
+- ⚡ **Test automation frameworks** across TypeScript, Python, Java and other stacks (Playwright, Cypress, Selenium, Appium, REST Assured).
+- ☁️ **Infrastructure & DevOps:** Implementing Terraform, Docker, Kubernetes and CI/CD pipelines (AWS, Azure, GCP, OCI).
+- 🔐 **Web3 Validation:** Ensuring security via Smart Contract audits and DApp testing on Ethereum, Solana, Cardano, BSC, among other blockchains.
 
-If you’d like to collaborate on QA automation, Web3, or testing/DevOps tooling, feel free to reach out. 👇  
+If you’d like to collaborate on QA automation, AI-Augmented Testing, Web3 or anything around software testing, feel free to reach out. 👇  
+<a href="https://linkedin.com/in/yosuancrespo" target="_blank">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
 **[Connect on LinkedIn](https://www.linkedin.com/in/yosuancrespo)**
