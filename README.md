@@ -107,13 +107,14 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 
 ## Core skills
 
-- Test strategy & QA architecture: test planning/design, regression suites, E2E flows, performance testing, **TDD/BDD**
-- Automation frameworks: **Playwright, Cypress, Selenium/WebDriver, Appium, Pytest, Cucumber, REST Assured**
-- API & integration testing: **REST, GraphQL, RESTful APIs**, Postman, JMeter, k6, contract-style testing
-- Web & backend: **Node.js, React, PHP, .NET**, SQL/RDBMS (**MySQL, PostgreSQL**), Rust
-- Cloud & DevOps: **AWS, Azure, GCP, Oracle Cloud**, Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI, Jenkins)
-- Blockchain & Web3 QA: **DApps, DeFi, smart contracts**, and testing on networks like **Bitcoin, Ethereum, Solana, BSC**
-- Collaboration & test management: **Jira, Confluence, Xray, TestRail**, defect triage, reporting, living documentation
+- Test strategy & QA architecture: test planning/design, regression suites, E2E flows, performance testing, **TDD/BDD** and **AI-augmented testing strategies**.
+- Automation frameworks: **Playwright, Cypress, Selenium, Appium, Pytest, Cucumber, REST Assured, Supertest**
+- API & integration testing: **REST, GraphQL, RESTful APIs, Postman, Swagger, JMeter, k6, contract-style testing**
+- Web & backend: **Node.js, React, PHP, .NET, SQL (MySQL, PostgreSQL), NoSQL, Rust, Solidity**.
+- Cloud & DevOps: **AWS, Azure, GCP, Oracle Cloud, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Jenkins), Datadog, Elasticsearch**
+- Blockchain & Web3 QA: **Smart contracts, DApps, DeFi, and testing on networks like Bitcoin, Ethereum, Solana, Cardano, BSC**
+- Collaboration & test management: **Jira, Confluence, Xray, TestRail, defect triage, reporting, living documentation**
+- **AI & Tools:** **GitHub Copilot, ChatGPT, Claude**, utilizing AI agents for test optimization.
 - Ways of working: **Agile, Scrum, Kanban**, remote-first collaboration, stakeholder-friendly reporting
 - Leadership & business: **Project & team management**, entrepreneurship, business development, SEO/online marketing
 
