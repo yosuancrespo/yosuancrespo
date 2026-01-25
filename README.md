@@ -113,9 +113,9 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 - **Web & backend:** Node.js, React, PHP, .NET, SQL (MySQL, PostgreSQL), NoSQL, Rust, Solidity.
 - **Cloud & DevOps:** AWS, Azure, GCP, Oracle Cloud, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Jenkins), Datadog, Elasticsearch.
 - **Blockchain & Web3 QA:** Smart contracts, DApps, DeFi, and testing on networks like Bitcoin, Ethereum, Solana, Cardano, BSC.
-- **Collaboration & test management:** Jira, Confluence, Xray, TestRail, defect triage, reporting, living documentation.
+- **QA Management:** Jira, Confluence, Xray, TestRail, defect triage, reporting, living documentation.
 - **AI & Tools:** GitHub Copilot, ChatGPT, Claude, utilizing AI agents for test optimization.
-- **Project & team management:** Agile, Scrum, Kanban, leadership, remote-first collaboration, stakeholder-friendly reporting.
+- **Leadership & Methodologies:** Agile, Scrum, Kanban, remote-first collaboration, stakeholder-friendly reporting.
 
 ---
 
