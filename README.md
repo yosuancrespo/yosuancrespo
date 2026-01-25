@@ -13,9 +13,11 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Web & Backend
@@ -45,6 +47,8 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 ![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-3C873A?style=for-the-badge)
+![Supertest](https://img.shields.io/badge/Supertest-3C873A?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-A000FF?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Cloud, DevOps & CI/CD
@@ -60,6 +64,9 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### Collaboration & Test Management
 
@@ -74,11 +81,21 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 ![Blockchain](https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-121212?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![DeFi](https://img.shields.io/badge/DeFi-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![DApps](https://img.shields.io/badge/DApps-000000?style=for-the-badge)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-000000?style=for-the-badge)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white)
+![BSC](https://img.shields.io/badge/Binance_Smart_Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)
 
 ### AI & Methodologies
 
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-00897B?style=for-the-badge)
