@@ -1,6 +1,6 @@
 # Hi, I'm Yosuan 👋
 
-Senior QA Automation Engineer, Project Manager & Entrepreneur helping teams ship reliable software across **Web, Mobile, Blockchain/Web3 & APIs**.
+Results-driven Senior QA Engineer and QA Lead with 17 years of experience in software quality, leveraging AI-augmented manual and automation testing to build scalable frameworks, CI/CD pipelines, elevate product quality, boost user satisfaction and support business objectives.  Proven ability to architect and implement comprehensive testing strategies for complex web, mobile (iOS, Android), API and blockchain systems within Agile frameworks. Bilingual (English-Spanish) leader with a Computer Science Engineer background, skilled in mentoring QA teams to achieve excellence.
 
 ---
 
@@ -34,7 +34,6 @@ Senior QA Automation Engineer, Project Manager & Entrepreneur helping teams ship
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-782A90?style=for-the-badge&logo=appium&logoColor=white)
-![Tricentis Tosca](https://img.shields.io/badge/Tricentis%20Tosca-Model--based%20testing-0A66C2?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
@@ -106,13 +105,13 @@ Senior QA Automation Engineer, Project Manager & Entrepreneur helping teams ship
 ## Highlighted projects
 
 - 🔭 **[Crossmint-Metaverse](https://github.com/yosuancrespo/Crossmint-Metaverse)**  
-  TypeScript automation solution for the Crossmint Megaverse coding challenge.
-
+  Playwright & TypeScript automation framework for Web3/Metaverse validation. Demonstrates Scalable E2E Architecture.
+  
 - 🎭 **[playwright](https://github.com/yosuancrespo/playwright)**  
-  Playwright E2E test framework with GitHub Actions CI, showcasing modern UI automation practices.
+  Playwright E2E Automation Framework with GitHub Actions CI/CD integration. Showcases Page Object Model (POM) and modern UI testing.
 
 - 🧪 **[cypress-aetherium-e2e](https://github.com/yosuancrespo/cypress-aetherium-e2e)**  
-  Cypress E2E specs for the Play4Testing sample app (register, login, image recognition).
+  Cypress Automation suite featuring visual regression and functional testing for modern web apps.
 
 - 🧱 *(Planned)* **[qa-automation-playwright-template](https://github.com/yosuancrespo/qa-automation-playwright-template/)**  
   Opinionated starter template for Playwright-based UI automation (coming soon).
@@ -149,7 +148,7 @@ Senior QA Automation Engineer, Project Manager & Entrepreneur helping teams ship
 
 - Designing **end-to-end QA strategies** for complex systems (FinTech, Blockchain/Web3, DeFi, SaaS, other data-driven products and beyond)
 - **Test automation frameworks** across TypeScript, Python, Java and other stacks (Playwright, Cypress, Selenium, Appium, REST Assured)
-- **Infrastructure for QA**: containers and cloud platforms (OCI, AWS, Azure, GCP), Kubernetes and CI/CD pipelines
+- **Infrastructure for QA**: containers and cloud platforms (AWS, Azure, GCP, OCI), Docker, Kubernetes and CI/CD pipelines
 - Using **AI to accelerate testing** without sacrificing quality
 
 If you’d like to collaborate on QA automation, Web3, or testing/DevOps tooling, feel free to reach out. 👇  
