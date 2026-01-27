@@ -109,7 +109,7 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 
 ## Core skills
 
-- **Test strategy & QA architecture:** test planning/design, regression suites, E2E flows, performance testing, Shift-Left, TDD, BDD and AI-augmented testing strategies.
+- **Test strategy & QA architecture:** Test Planning & Design, regression suites, E2E flows, performance testing, Shift-Left, TDD, BDD and AI-augmented testing strategies.
 - **Automation frameworks:** Playwright, Cypress, Selenium, Appium, Pytest, Cucumber, REST Assured, Supertest.
 - **API & integration testing:** REST, GraphQL, RESTful APIs, Postman, Swagger, JMeter, k6, contract-style testing.
 - **Web & backend:** Node.js, React, PHP, .NET, SQL (MySQL, PostgreSQL), NoSQL, Rust, Solidity.
