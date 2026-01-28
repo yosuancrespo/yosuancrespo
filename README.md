@@ -121,23 +121,7 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 
 ---
 
-## Highlighted projects
-
-- 🔭 **[Crossmint-Metaverse](https://github.com/yosuancrespo/Crossmint-Metaverse)**  
-  Playwright & TypeScript automation framework for Web3/Metaverse validation. Demonstrates Scalable E2E Architecture.
-  
-- 🎭 **[playwright](https://github.com/yosuancrespo/playwright)**  
-  Playwright E2E Automation Framework with GitHub Actions CI/CD integration. Showcases Page Object Model (POM) and modern UI testing.
-
-- 🧪 **[cypress-aetherium-e2e](https://github.com/yosuancrespo/cypress-aetherium-e2e)**  
-  Cypress Automation suite featuring visual regression and functional testing for modern web apps.
-
-- 🧱 *(Planned)* **[qa-automation-playwright-template](https://github.com/yosuancrespo/qa-automation-playwright-template/)**  
-  Opinionated starter template for Playwright-based UI automation (coming soon).
-
----
-
-## Other notable projects (startups & corporations)
+## Notable projects (startups & corporations)
 
 - 🌐 **[Blubird](https://www.getblubird.com/)**  
   Web3 platform helping companies fast-track their transition into crypto and blockchain
@@ -153,6 +137,22 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 
 - 🏥 **[NYU Langone Health](https://nyulangone.org/)**  
   Hospital associated with New York University 
+
+---
+
+## Individual projects
+
+- 🔭 **[Crossmint-Metaverse](https://github.com/yosuancrespo/Crossmint-Metaverse)**  
+  Playwright & TypeScript automation framework for Web3/Metaverse validation. Demonstrates Scalable E2E Architecture.
+  
+- 🎭 **[playwright](https://github.com/yosuancrespo/playwright)**  
+  Playwright E2E Automation Framework with GitHub Actions CI/CD integration. Showcases Page Object Model (POM) and modern UI testing.
+
+- 🧪 **[cypress-aetherium-e2e](https://github.com/yosuancrespo/cypress-aetherium-e2e)**  
+  Cypress Automation suite featuring visual regression and functional testing for modern web apps.
+
+- 🧱 *(Planned)* **[qa-automation-playwright-template](https://github.com/yosuancrespo/qa-automation-playwright-template/)**  
+  Opinionated starter template for Playwright-based UI automation (coming soon).
 
 ---
 
