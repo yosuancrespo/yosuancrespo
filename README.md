@@ -140,7 +140,7 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 
 ---
 
-## Individual projects
+## Individual projects and technical assignments
 
 - 🔭 **[Crossmint-Metaverse](https://github.com/yosuancrespo/Crossmint-Metaverse)**  
   Playwright & TypeScript automation framework for Web3/Metaverse validation. Demonstrates Scalable E2E Architecture.
