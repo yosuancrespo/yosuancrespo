@@ -142,14 +142,20 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 
 ## Individual projects and technical assignments
 
+- 🐳 **[qa-api-playwright-bdd](https://github.com/yosuancrespo/qa-api-playwright-bdd)** 
+  Playwright API automation framework built with TypeScript, Docker and BDD. Demonstrates containerized test architecture, microservices mocking, contract validation, CI-friendly execution and living documentation.
+
+- 📋 **[Test Strategy & Risk Assessment (Case Study)](https://github.com/Phished-BV/github-classroom-risk-calculator-qa-assignment/pull/1)** 
+  Comprehensive Test Plan & Bug Report portfolio. Demonstrates strategic planning, risk-based testing, professional defect reporting standards and CI-focused smoke automation using Vitest.
+
 - 🔭 **[Crossmint-Metaverse](https://github.com/yosuancrespo/Crossmint-Metaverse)**  
-  Playwright & TypeScript automation framework for Web3/Metaverse validation. Demonstrates Scalable E2E Architecture.
+  Playwright & TypeScript automation framework for Web3/Metaverse validation. Demonstrates scalable E2E test architecture and CI-ready design.
   
 - 🎭 **[playwright](https://github.com/yosuancrespo/playwright)**  
-  Playwright E2E Automation Framework with GitHub Actions CI/CD integration. Showcases Page Object Model (POM) and modern UI testing.
+  Playwright E2E Automation Framework with GitHub Actions CI/CD integration. Implements Page Object Model (POM), CI integration, maintainable test architecture and modern UI testing.
 
 - 🧪 **[cypress-aetherium-e2e](https://github.com/yosuancrespo/cypress-aetherium-e2e)**  
-  Cypress Automation suite featuring visual regression and functional testing for modern web apps.
+  Cypress E2E suite demonstrating scalable test structure, reusable commands and regression-focused automation patterns.
 
 - 🧱 *(Planned)* **[qa-automation-playwright-template](https://github.com/yosuancrespo/qa-automation-playwright-template/)**  
   Opinionated starter template for Playwright-based UI automation (coming soon).
@@ -166,7 +172,7 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 ## What I’m interested in
 
 - 🏗️ **Designing scalable QA architectures** for complex systems (FinTech, Blockchain/Web3, DeFi, SaaS, other data-driven products and beyond).
-- 🤖 **Pioneering AI-Augmented Testing** workflows using LLMs, AI Agents (Copilot, Claude) and automated reasoning.
+- 🤖 **Implementing AI-Augmented Testing** workflows using LLMs, AI Agents (Copilot, Claude, ChatGPT) and automated reasoning.
 - ⚡ **Test automation frameworks** across TypeScript, Python, Java and other stacks (Playwright, Cypress, Selenium, Appium, REST Assured).
 - ☁️ **Infrastructure & DevOps:** Implementing Terraform, Docker, Kubernetes and CI/CD pipelines (AWS, Azure, GCP, OCI).
 - 🔐 **Web3 Validation:** Ensuring security via Smart Contract audits and DApp testing on Ethereum, Solana, Cardano, BSC, among other blockchains.
