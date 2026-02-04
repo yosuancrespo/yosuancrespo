@@ -145,7 +145,7 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 - 🐳 **[qa-api-playwright-bdd](https://github.com/yosuancrespo/qa-api-playwright-bdd)**  
   Playwright API automation framework built with TypeScript, Docker and BDD. Demonstrates containerized test architecture, microservices mocking, contract validation, CI-friendly execution and living documentation.
 
-- 📋 **[Test Strategy & Risk Assessment (Case Study)](https://github.com/Phished-BV/github-classroom-risk-calculator-qa-assignment/pull/1)**  
+- 📋 **[Test Strategy & Risk Assessment (Case Study)](https://github.com/Phished-BV/github-classroom-risk-calculator-qa-assignment/pull/2)**  
   Comprehensive Test Plan & Bug Report portfolio. Demonstrates strategic planning, risk-based testing, professional defect reporting standards and CI-focused smoke automation using Vitest.
 
 - 🔭 **[Crossmint-Metaverse](https://github.com/yosuancrespo/Crossmint-Metaverse)**  
