@@ -14,6 +14,7 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -24,8 +25,6 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Testing & QA
 
@@ -93,6 +92,7 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 
 ### AI & Methodologies
 
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -114,11 +114,11 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 - **Test strategy & QA architecture:** Test Planning & Design, regression suites, E2E flows, performance testing, Shift-Left, TDD, BDD and AI-augmented testing strategies.
 - **Automation frameworks:** Playwright, Cypress, Selenium, Appium, Pytest, Cucumber, REST Assured, Supertest.
 - **API & integration testing:** REST, GraphQL, RESTful APIs, Postman, Swagger, JMeter, k6, contract-style testing.
-- **Web & backend:** Node.js, React, PHP, .NET, SQL (MySQL, PostgreSQL), NoSQL, Rust, Solidity.
+- **Web & backend:** Node.js, React, SQL (MySQL, PostgreSQL), NoSQL, Rust, Solidity, Go.
 - **Cloud & DevOps:** AWS, Azure, GCP, Oracle Cloud, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Jenkins), Datadog, Elasticsearch.
 - **Blockchain & Web3 QA:** Smart contracts, DApps, DeFi, and testing on networks like Bitcoin, Ethereum, Solana, Cardano, BSC.
 - **QA Management:** Jira, Confluence, Xray, TestRail, defect triage, reporting, living documentation.
-- **AI:** Claude, ChatGPT, Cursor, GitHub Copilot, Antigravity, n8n, AI agents.
+- **AI:** Large Language Models (LLMs), Claude, ChatGPT, Cursor, GitHub Copilot, Antigravity, n8n, AI agents.
 - **Leadership & Methodologies:** Agile, Scrum, Kanban, remote-first collaboration, stakeholder-friendly reporting.
 
 ---
