@@ -125,13 +125,13 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 
 ## Certifications
 
-🏆 **[Software Testing with Generative AI – Simplilearn (Feb 2026)](https://certificates.simplicdn.net/share/9898513_10190849_1772194757790.pdf)**
+🏆 **[Software Testing with Generative AI](https://certificates.simplicdn.net/share/9898513_10190849_1772194757790.pdf)** – Simplilearn (Feb 2026)
 
-🤖 **[Claude Code in Action – Anthropic (Feb 2026)](https://verify.skilljar.com/c/t4whhivyvy42)**
+🤖 **[Claude Code in Action](https://verify.skilljar.com/c/t4whhivyvy42)** – Anthropic (Feb 2026)
 
-📈 **[Elements of AI for Business – MinnaLearn (Feb 2026)](https://courses.minnalearn.com/certificate/en/elements-of-ai-for-business/c1091268-12e1-46d9-8aa2-3e7bd7d5769e)**
+📈 **[Elements of AI for Business](https://courses.minnalearn.com/certificate/en/elements-of-ai-for-business/c1091268-12e1-46d9-8aa2-3e7bd7d5769e)** – MinnaLearn (Feb 2026)
 
-🗣️ **[English Certificate (C2 Proficient) – EF SET (Jan 2026)](https://cert.efset.org/qdr3bQ)**
+🗣️ **[English Certificate (C2 Proficient)](https://cert.efset.org/qdr3bQ)** – EF SET (Jan 2026)
 
 🔄 Scrum Foundation Professional Certificate – CertiProf (Mar 2022)
 
