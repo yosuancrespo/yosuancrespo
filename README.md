@@ -133,7 +133,7 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 
 🗣️ **[English Certificate (C2 Proficient)](https://cert.efset.org/qdr3bQ)** – EF SET (Jan 2026)
 
-🔄 Scrum Foundation Professional Certificate – CertiProf (Mar 2022)
+🔄 **[Scrum Foundation Professional Certificate](certificates/Scrum Foundation Professional Certificate.pdf)** – CertiProf (Mar 2022)
 
 ---
 
