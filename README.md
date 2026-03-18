@@ -125,6 +125,8 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 
 ## Certifications
 
+🧠 **[Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/532MV7QRN44L)** – Google (Mar 2026)
+
 🏆 **[Software Testing with Generative AI](https://certificates.simplicdn.net/share/9898513_10190849_1772194757790.pdf)** – Simplilearn (Feb 2026)
 
 🤖 **[Claude Code in Action](https://verify.skilljar.com/c/t4whhivyvy42)** – Anthropic (Feb 2026)
