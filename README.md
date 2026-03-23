@@ -190,7 +190,7 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 ## What I’m interested in
 
 - 🏗️ **Designing scalable QA architectures** for complex systems (FinTech, Blockchain/Web3, DeFi, SaaS, other data-driven products and beyond).
-- 🤖 **Implementing AI-Augmented Testing** workflows using LLMs, AI Agents (Copilot, Claude, ChatGPT) and automated reasoning.
+- 🤖 **Implementing AI-Augmented Testing** workflows using LLMs, AI Agents and automated reasoning.
 - ⚡ **Test automation frameworks** across TypeScript, Python, Java and other stacks (Playwright, Cypress, Selenium, Appium, REST Assured).
 - ☁️ **Infrastructure & DevOps:** Implementing Terraform, Docker, Kubernetes and CI/CD pipelines (AWS, Azure, GCP, OCI).
 - 🔐 **Web3 Validation:** Ensuring security via Smart Contract audits and DApp testing on Ethereum, Solana, Cardano, BSC, among other blockchains.
