@@ -82,6 +82,9 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 ![DeFi](https://img.shields.io/badge/DeFi-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![DApps](https://img.shields.io/badge/DApps-000000?style=for-the-badge)
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-000000?style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
+![Truffle](https://img.shields.io/badge/Truffle-E6522C?style=for-the-badge&logo=truffle&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
@@ -116,9 +119,9 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 - **API & integration testing:** REST, GraphQL, RESTful APIs, Postman, Swagger, JMeter, k6, contract-style testing.
 - **Web & backend:** TypeScript, JavaScript, Python, Java, Node.js, React, SQL (MySQL, PostgreSQL), NoSQL, Rust, Solidity, Go, Bash.
 - **Cloud & DevOps:** AWS, Azure, GCP, Oracle Cloud, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Jenkins), Datadog, Elasticsearch.
-- **Blockchain & Web3 QA:** Smart contracts, DApps, DeFi, and testing on networks like Bitcoin, Ethereum, Solana, Cardano, BSC.
+- **Blockchain & Web3 QA:** Smart contracts, DApps and DeFi testing using Hardhat, Foundry and Truffle for EVM networks (Ethereum, BSC, Polygon), plus dedicated validation for non-EVM ecosystems (Solana, Cardano).
 - **QA Management:** Jira, Confluence, Xray, TestRail, defect triage, reporting, living documentation.
-- **AI:** Large Language Models (LLMs), Claude, ChatGPT, Cursor, GitHub Copilot, Antigravity, n8n, AI agents.
+- **AI-Augmented QA:** Large Language Models (LLMs), Claude, ChatGPT, Cursor, GitHub Copilot, Antigravity, n8n, AI agents.
 - **Leadership & Methodologies:** Agile, Scrum, Kanban, remote-first collaboration, stakeholder-friendly reporting.
 
 ---
