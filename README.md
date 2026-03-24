@@ -117,7 +117,7 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 - **Test strategy & QA architecture:** Test Planning & Design, regression suites, E2E flows, performance testing, Shift-Left, TDD, BDD and AI-augmented testing strategies.
 - **Automation frameworks:** Playwright, Cypress, Selenium, Appium, Pytest, Cucumber, REST Assured, Supertest.
 - **API & integration testing:** REST, GraphQL, RESTful APIs, Postman, Swagger, JMeter, k6, contract-style testing.
-- **Web & backend:** TypeScript, JavaScript, Python, Java, Node.js, React, SQL (MySQL, PostgreSQL), NoSQL, Rust, Solidity, Go, Bash.
+- **Web & backend:** TypeScript, JavaScript, Python, Java, Solidity, Rust, Go, Bash, Node.js, React, SQL (MySQL, PostgreSQL), NoSQL.
 - **Cloud & DevOps:** AWS, Azure, GCP, Oracle Cloud, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Jenkins), Datadog, Elasticsearch.
 - **Blockchain & Web3 QA:** Smart contracts, DApps and DeFi testing using Hardhat and Foundry for EVM networks (Ethereum, BSC, Polygon), plus dedicated validation for non-EVM ecosystems (Solana, Cardano).
 - **QA Management:** Jira, Confluence, Xray, TestRail, defect triage, reporting, living documentation.
