@@ -1,6 +1,6 @@
 # Hi, I'm Yosuan 👋
 
-Results-driven Senior QA Engineer and QA Lead with 17 years of experience in software quality, leveraging AI-augmented manual and automation testing to build scalable frameworks, CI/CD pipelines, elevate product quality, boost user satisfaction and support business objectives.  Proven ability to architect and implement comprehensive testing strategies for complex web, mobile (iOS, Android), API and blockchain systems within Agile frameworks. Bilingual (English-Spanish) leader with a Computer Science Engineer background, skilled in mentoring QA teams to achieve excellence.
+Results-driven Senior QA Lead and Technical Project Manager with 17 years of experience in software quality and strategic delivery. By leveraging AI Engineering (LLMs, Agentic Workflows) alongside advanced test automation, I build scalable frameworks and CI/CD pipelines that elevate product quality, accelerate release cycles, boost user satisfaction and support key business objectives. Proven ability to architect comprehensive testing strategies for complex web, mobile (iOS, Android), API and Web3/blockchain systems. As a bilingual (English-Spanish) Computer Science Engineer, I specialize in bridging deep technical validation with Agile project execution, mentoring cross-functional teams to achieve excellence.
 
 ---
 
@@ -19,6 +19,7 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-336791?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Web & Backend
@@ -108,20 +109,25 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 ![Kanban](https://img.shields.io/badge/Kanban-00897B?style=for-the-badge)
 ![TDD](https://img.shields.io/badge/TDD-6A1B9A?style=for-the-badge)
 ![BDD](https://img.shields.io/badge/BDD-283593?style=for-the-badge)
+![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven_Development-6A1B9A?style=for-the-badge)
 ![Project Management](https://img.shields.io/badge/Project_Management-FF9800?style=for-the-badge)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge)
 
 ---
 
 ## Core skills
 
-- **Test strategy & QA architecture:** Test Planning & Design, regression suites, E2E flows, performance testing, Shift-Left, TDD, BDD and AI-augmented testing strategies.
+- **Test strategy & QA architecture:** Test Planning & Design, regression suites, E2E flows, performance testing, Shift-Left, TDD, BDD, Spec-Driven Development and AI-augmented testing strategies.
 - **Automation frameworks:** Playwright, Cypress, Selenium, Appium, Pytest, Cucumber, REST Assured, Supertest.
-- **API & integration testing:** REST, GraphQL, RESTful APIs, Postman, Swagger, JMeter, k6, contract-style testing.
-- **Web & backend:** TypeScript, JavaScript, Python, Java, Solidity, Rust, Go, Bash, Node.js, React, SQL (MySQL, PostgreSQL), NoSQL.
+- **API & integration testing:** REST, GraphQL, RESTful APIs, Postman, Swagger, JMeter, k6, Contract Testing.
+- **Web & backend:** TypeScript, JavaScript, Python, Java, Solidity, Rust, Go, Bash, Node.js, React, SQL (MySQL, PostgreSQL), NoSQL, Vector Databases (pgvector, Pinecone).
 - **Cloud & DevOps:** AWS, Azure, GCP, Oracle Cloud, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Jenkins), Datadog, Elasticsearch.
 - **Blockchain & Web3 QA:** Smart contracts, DApps and DeFi testing using Hardhat and Foundry for EVM networks (Ethereum, BSC, Polygon), plus dedicated validation for non-EVM ecosystems (Solana, Cardano).
 - **QA Management:** Jira, Confluence, Xray, TestRail, defect triage, reporting, living documentation.
-- **AI-Augmented QA:** Large Language Models (LLMs), Claude, ChatGPT, Cursor, GitHub Copilot, Antigravity, n8n, AI agents.
+- **AI-Augmented QA & Integration:** Large Language Models (LLMs), RAG, Agentic Workflows, Claude, ChatGPT, Cursor, GitHub Copilot, Antigravity, n8n, AI agents, LLM Evaluation, Prompt Engineering / CoT.
 - **Leadership & Methodologies:** Agile, Scrum, Kanban, remote-first collaboration, stakeholder-friendly reporting.
 
 ---
@@ -198,7 +204,7 @@ Results-driven Senior QA Engineer and QA Lead with 17 years of experience in sof
 - ☁️ **Infrastructure & DevOps:** Implementing Terraform, Docker, Kubernetes and CI/CD pipelines (AWS, Azure, GCP, OCI).
 - 🔐 **Web3 Validation:** Ensuring security via Smart Contract audits and DApp testing on Ethereum, Solana, Cardano, BSC, among other blockchains.
 
-If you’d like to collaborate on QA automation, AI-Augmented Testing, Web3 or anything around software testing, feel free to reach out. 👇  
+If you’d like to collaborate on QA automation, AI-Augmented Testing, AI Integrations, Agentic Workflows, Web3 or anything around software testing, feel free to reach out. 👇  
 
 <a href="https://linkedin.com/in/yosuancrespo" target="_blank">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
