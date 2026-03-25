@@ -206,6 +206,6 @@ Results-driven Senior QA Lead and Technical Project Manager with 17 years of exp
 
 If you’d like to collaborate on QA automation, AI-Augmented Testing, Agentic Workflows, Web3 or anything around software engineering, feel free to reach out. 👇  
 
-<a href="https://linkedin.com/in/yosuancrespo" target="_blank">
+<a href="https://www.linkedin.com/in/yosuancrespo" target="_blank">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
