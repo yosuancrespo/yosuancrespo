@@ -204,7 +204,7 @@ Results-driven Senior QA Lead and Technical Project Manager with 17 years of exp
 - ☁️ **Infrastructure & DevOps:** Implementing Terraform, Docker, Kubernetes and CI/CD pipelines (AWS, Azure, GCP, OCI).
 - 🔐 **Web3 Validation:** Ensuring security via Smart Contract audits and DApp testing on Ethereum, Solana, Cardano, BSC, among other blockchains.
 
-If you’d like to collaborate on QA automation, AI-Augmented Testing, AI Integrations, Agentic Workflows, Web3 or anything around software testing, feel free to reach out. 👇  
+If you’d like to collaborate on QA automation, AI-Augmented Testing, AI Integrations, Agentic Workflows, Web3 or anything around software, feel free to reach out. 👇  
 
 <a href="https://linkedin.com/in/yosuancrespo" target="_blank">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
