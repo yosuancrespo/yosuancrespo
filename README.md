@@ -1,6 +1,6 @@
 # Hi, I'm Yosuan 👋
 
-Results-driven Senior QA Lead and Technical Project Manager with 17 years of experience in software quality and strategic delivery. By leveraging AI Engineering (LLMs, Agentic Workflows) alongside advanced test automation, I build scalable frameworks and CI/CD pipelines that elevate product quality, accelerate release cycles, boost user satisfaction and support key business objectives. Proven ability to architect comprehensive testing strategies for complex web, mobile (iOS, Android), API and Web3/blockchain systems. As a bilingual (English-Spanish) Computer Science Engineer, I specialize in bridging deep technical validation with Agile project execution, mentoring cross-functional teams to achieve excellence.
+Results-driven Senior QA Lead and Technical Project Manager with 17 years of experience in software quality and strategic delivery. By leveraging AI Engineering (LLMs, Agentic Workflows) alongside advanced test automation, I build scalable frameworks and CI/CD pipelines that elevate product quality, accelerate release cycles, boost user satisfaction and support key business objectives. Proven ability to architect comprehensive testing strategies for complex Web, Mobile (iOS, Android), Web3, Blockchain and AI-powered systems. As a bilingual (English-Spanish) Computer Science Engineer, I specialize in bridging deep technical validation with Agile project execution, mentoring cross-functional teams to achieve excellence.
 
 ---
 
@@ -198,7 +198,7 @@ Results-driven Senior QA Lead and Technical Project Manager with 17 years of exp
 
 ## What I’m interested in
 
-- 🏗️ **Designing scalable QA architectures** for complex systems (FinTech, Blockchain/Web3, DeFi, SaaS, other data-driven products and beyond).
+- 🏗️ **Designing scalable QA architectures** for complex systems (FinTech, Blockchain, Web3, DeFi, SaaS, AI-powered applications and other data-driven products).
 - 🤖 **Building AI Integrations & AI-Augmented Testing** using LLMs, Agentic Workflows and automated reasoning.
 - ⚡ **Test automation frameworks** across TypeScript, Python, Java and other stacks (Playwright, Cypress, Selenium, Appium, REST Assured).
 - ☁️ **Infrastructure & DevOps:** Implementing Terraform, Docker, Kubernetes and CI/CD pipelines (AWS, Azure, GCP, OCI).
