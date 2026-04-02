@@ -127,7 +127,7 @@ Results-driven Senior QA Lead and Technical Project Manager with 17 years of exp
 - **Cloud & DevOps:** AWS, Azure, GCP, Oracle Cloud, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Jenkins), Datadog, Elasticsearch.
 - **Blockchain & Web3 QA:** Smart contracts, DApps and DeFi testing using Hardhat and Foundry for EVM networks (Ethereum, BSC, Polygon), plus dedicated validation for non-EVM ecosystems (Solana, Cardano).
 - **QA Management:** Jira, Confluence, Xray, TestRail, defect triage, reporting, living documentation.
-- **AI-Augmented QA & Integration:** Large Language Models (LLMs), RAG, Agentic Workflows, Claude, ChatGPT, Cursor, GitHub Copilot, Antigravity, n8n, AI agents, LLM Evaluation, Prompt Engineering / CoT.
+- **AI-Augmented QA & Integration:** Large Language Models (LLMs), RAG, Agentic Workflows, Claude, ChatGPT, Cursor, GitHub Copilot, Antigravity, n8n, AI agents, LLM evaluation, eval-driven development and prompt engineering.
 - **Leadership & Methodologies:** Agile, Scrum, Kanban, remote-first collaboration, stakeholder-friendly reporting.
 
 ---
@@ -168,6 +168,9 @@ Results-driven Senior QA Lead and Technical Project Manager with 17 years of exp
 ---
 
 ## Individual projects and technical assignments
+
+- 🚀 **[SpecForge AI](https://github.com/yosuancrespo/specforge-ai)**  
+  AI-augmented QA platform for spec-driven development and testing, RAG-grounded analysis, eval-driven development and contract validation across Python, Go, Rust and Solidity. Demonstrates FastAPI, Streamlit, pgvector-ready retrieval, promptfoo evaluations, agentic workflows, Hardhat, Foundry, n8n, Docker Compose and GitHub Actions.
 
 - 🐳 **[qa-api-playwright-bdd](https://github.com/yosuancrespo/qa-api-playwright-bdd)**  
   Playwright API automation framework built with TypeScript, Docker and BDD. Demonstrates containerized test architecture, microservices mocking, contract validation, CI-friendly execution and living documentation.
