@@ -209,7 +209,7 @@ Results-driven Senior QA Lead and Technical Project Manager with 17 years of exp
 ## What I’m interested in
 
 - 🏗️ **Designing scalable QA architectures** for complex systems (FinTech, Blockchain, Web3, DeFi, SaaS, AI-powered applications and other data-driven products).
-- 🤖 **Building AI Integrations & AI-Augmented Testing** using LLMs, RAG, LangChain, Agentic Workflows, LLMOps, AI Red Teaming, AI Guardrails, MCP and automated reasoning.
+- 🤖 **Building AI Integrations & AI-Augmented Testing** using LLMs, RAG, LangChain, Agentic Workflows, LLMOps, LLM Evaluation, AI Red Teaming, AI Guardrails, MCP and automated reasoning.
 - ⚡ **Test automation frameworks** across TypeScript, Python, Java and other stacks (Playwright, Cypress, Selenium, Appium, REST Assured).
 - ☁️ **Infrastructure & DevOps:** Implementing Terraform, Docker, Kubernetes and CI/CD pipelines (AWS, Azure, GCP, OCI).
 - 🔐 **Web3 Validation:** Ensuring security via Smart Contract audits and DApp testing on Ethereum, Solana, Cardano, BSC, among other blockchains.
