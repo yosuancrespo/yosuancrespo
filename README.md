@@ -34,8 +34,9 @@ Results-driven Senior QA Lead and Technical Project Manager with 17 years of exp
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Selenium WebDriver](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-782A90?style=for-the-badge&logo=appium&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-FCC72B?style=for-the-badge&logo=vitest&logoColor=black)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
@@ -83,6 +84,7 @@ Results-driven Senior QA Lead and Technical Project Manager with 17 years of exp
 ![DeFi](https://img.shields.io/badge/DeFi-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![DApps](https://img.shields.io/badge/DApps-000000?style=for-the-badge)
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-000000?style=for-the-badge)
+![ZK Proofs](https://img.shields.io/badge/ZK_Proofs-121212?style=for-the-badge)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
 ![Truffle](https://img.shields.io/badge/Truffle-E6522C?style=for-the-badge&logo=truffle&logoColor=white)
@@ -99,6 +101,15 @@ Results-driven Senior QA Lead and Technical Project Manager with 17 years of exp
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-000000?style=for-the-badge)
+![LLMOps](https://img.shields.io/badge/LLMOps-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge)
+![AI Red Teaming](https://img.shields.io/badge/AI_Red_Teaming-D32F2F?style=for-the-badge)
+![AI Guardrails](https://img.shields.io/badge/AI_Guardrails-388E3C?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
@@ -111,10 +122,6 @@ Results-driven Senior QA Lead and Technical Project Manager with 17 years of exp
 ![BDD](https://img.shields.io/badge/BDD-283593?style=for-the-badge)
 ![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven_Development-6A1B9A?style=for-the-badge)
 ![Project Management](https://img.shields.io/badge/Project_Management-FF9800?style=for-the-badge)
-![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge)
 
 ---
 
@@ -125,9 +132,9 @@ Results-driven Senior QA Lead and Technical Project Manager with 17 years of exp
 - **API & integration testing:** REST, GraphQL, RESTful APIs, Postman, Swagger, JMeter, k6, Contract Testing.
 - **Web & backend:** TypeScript, JavaScript, Python, Java, Solidity, Rust, Go, Bash, Node.js, React, SQL (MySQL, PostgreSQL), NoSQL, Vector Databases (pgvector, Pinecone).
 - **Cloud & DevOps:** AWS, Azure, GCP, Oracle Cloud, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Jenkins), Datadog, Elasticsearch.
-- **Blockchain & Web3 QA:** Smart contracts, DApps and DeFi testing using Hardhat and Foundry for EVM networks (Ethereum, BSC, Polygon), plus dedicated validation for non-EVM ecosystems (Solana, Cardano).
+- **Blockchain & Web3 QA:** Smart contracts, ZK Proofs, DApps and DeFi testing using Hardhat and Foundry for EVM networks (Ethereum, BSC, Polygon), plus dedicated validation for non-EVM ecosystems (Solana, Cardano).
 - **QA Management:** Jira, Confluence, Xray, TestRail, defect triage, reporting, living documentation.
-- **AI-Augmented QA & Integration:** Large Language Models (LLMs), RAG, Agentic Workflows, Claude, ChatGPT, Cursor, GitHub Copilot, Antigravity, n8n, AI agents, LLM evaluation, eval-driven development and prompt engineering.
+- **AI-Augmented QA & Integration:** Large Language Models (LLMs), RAG, LangChain, Agentic Workflows, LLMOps, AI Red Teaming, AI Guardrails, MCP, Claude, ChatGPT, Cursor, GitHub Copilot, Antigravity, n8n, AI agents, LLM evaluation, eval-driven development and prompt engineering.
 - **Leadership & Methodologies:** Agile, Scrum, Kanban, remote-first collaboration, stakeholder-friendly reporting.
 
 ---
@@ -202,7 +209,7 @@ Results-driven Senior QA Lead and Technical Project Manager with 17 years of exp
 ## What I’m interested in
 
 - 🏗️ **Designing scalable QA architectures** for complex systems (FinTech, Blockchain, Web3, DeFi, SaaS, AI-powered applications and other data-driven products).
-- 🤖 **Building AI Integrations & AI-Augmented Testing** using LLMs, Agentic Workflows and automated reasoning.
+- 🤖 **Building AI Integrations & AI-Augmented Testing** using LLMs, RAG, LangChain, Agentic Workflows, LLMOps, AI Red Teaming, AI Guardrails, MCP and automated reasoning.
 - ⚡ **Test automation frameworks** across TypeScript, Python, Java and other stacks (Playwright, Cypress, Selenium, Appium, REST Assured).
 - ☁️ **Infrastructure & DevOps:** Implementing Terraform, Docker, Kubernetes and CI/CD pipelines (AWS, Azure, GCP, OCI).
 - 🔐 **Web3 Validation:** Ensuring security via Smart Contract audits and DApp testing on Ethereum, Solana, Cardano, BSC, among other blockchains.
