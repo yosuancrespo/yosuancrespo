@@ -1,6 +1,6 @@
 # Hi, I'm Yosuan 👋
 
-Results-driven Senior QA Lead and Technical Project Manager with 17 years of experience in software quality and strategic delivery. By leveraging AI Engineering (LLMs, Agentic Workflows) alongside advanced test automation, I build scalable frameworks and CI/CD pipelines that elevate product quality, accelerate release cycles, boost user satisfaction and support key business objectives. Proven ability to architect comprehensive testing strategies for complex Web, Mobile (iOS, Android), Web3, Blockchain and AI-powered systems. As a bilingual (English-Spanish) Computer Science Engineer, I specialize in bridging deep technical validation with Agile project execution, mentoring cross-functional teams to achieve excellence.
+Results-driven Senior QA Lead, AI & Automation Engineer with 17 years of experience in software quality and strategic delivery. By leveraging AI Engineering (LLMs, Agentic Workflows) and advanced automation, I build scalable frameworks and CI/CD pipelines that elevate product quality, accelerate release cycles and support key business objectives. I architect comprehensive testing strategies for complex Web, Mobile (iOS, Android), Web3, Blockchain and AI-powered systems. As a bilingual (English-Spanish) Computer Science Engineer, I specialize in bridging deep technical validation with Agile execution, mentoring cross-functional teams to achieve excellence.
 
 ---
 
