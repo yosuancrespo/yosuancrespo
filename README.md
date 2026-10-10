@@ -148,7 +148,7 @@ Results-driven Senior QA Lead, AI & Automation Engineer with 18+ years of experi
 - **Cloud & DevOps:** AWS, Azure, GCP, Oracle Cloud, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Bitbucket, CircleCI, Jenkins), Datadog, Elasticsearch, Kibana and Grafana.
 - **Blockchain & Web3 QA:** Smart contracts, ZK Proofs, DApps and DeFi testing using Hardhat and Foundry for EVM networks (Ethereum, BSC, Polygon), plus dedicated validation for non-EVM ecosystems (Solana, Cardano).
 - **QA Management:** Jira, Confluence, Zephyr, Xray, TestRail, defect triage, reporting, living documentation.
-- **AI-Augmented QA & Integration:** AI-Augmented QA & Integration: Large Language Models (LLMs), RAG, Multi-Agent Systems, Agent Orchestration, Vector Database Retrieval, Grounding & Hallucination Detection, LangChain, Agentic Workflows, LLMOps, LLM Evaluation, Eval-Driven Development, AI Red Teaming, AI Guardrails, MCP, Claude, ChatGPT, Cursor, GitHub Copilot, Anthropic API, OpenAI API, Azure OpenAI, Gemini, Antigravity, n8n and prompt engineering.
+- **AI-Augmented QA & Integration:** Large Language Models (LLMs), RAG, Multi-Agent Systems, Agent Orchestration, Vector Database Retrieval, Grounding & Hallucination Detection, LangChain, Agentic Workflows, LLMOps, LLM Evaluation, Eval-Driven Development, AI Red Teaming, AI Guardrails, MCP, Claude, ChatGPT, Cursor, GitHub Copilot, Anthropic API, OpenAI API, Azure OpenAI, Gemini, Antigravity, n8n and prompt engineering.
 - **Leadership & Methodologies:** Agile, Scrum, Kanban, remote-first collaboration, stakeholder-friendly reporting.
 - **Regulated QA:** GxP-aligned validation, EU AI Act-aligned traceability, requirement-to-evidence traceability, release sign-off reporting and audit logging.
 
