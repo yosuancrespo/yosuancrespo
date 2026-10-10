@@ -142,14 +142,15 @@ Results-driven Senior QA Lead, AI & Automation Engineer with 18+ years of experi
 ## Core skills
 
 - **Test strategy & QA architecture:** Test Planning & Design, regression suites, E2E flows, performance testing, Shift-Left, TDD, BDD, Spec-Driven Development and AI-augmented testing strategies.
-- **Automation frameworks:** Playwright, Cypress, Selenium, Appium, Pytest, Cucumber, REST Assured, Supertest.
-- **API & integration testing:** REST, GraphQL, RESTful APIs, Postman, Swagger, JMeter, k6, Contract Testing.
+- **Automation frameworks:** Playwright, Cypress, Selenium, Appium, Pytest, Vitest, Cucumber, REST Assured, Supertest.
+- **API & integration testing:** REST, GraphQL, RESTful APIs, Postman, Swagger, Service-to-Service Integrations, Gatling, JMeter, k6 and Contract Testing.
 - **Web & backend:** TypeScript, JavaScript, Python, Java, Solidity, Rust, Go, Bash, Node.js, React, SQL (MySQL, PostgreSQL), NoSQL, Vector Databases (pgvector, Pinecone).
-- **Cloud & DevOps:** AWS, Azure, GCP, Oracle Cloud, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Jenkins), Datadog, Elasticsearch.
+- **Cloud & DevOps:** AWS, Azure, GCP, Oracle Cloud, Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Bitbucket, CircleCI, Jenkins), Datadog, Elasticsearch, Kibana and Grafana.
 - **Blockchain & Web3 QA:** Smart contracts, ZK Proofs, DApps and DeFi testing using Hardhat and Foundry for EVM networks (Ethereum, BSC, Polygon), plus dedicated validation for non-EVM ecosystems (Solana, Cardano).
-- **QA Management:** Jira, Confluence, Xray, TestRail, defect triage, reporting, living documentation.
-- **AI-Augmented QA & Integration:** Large Language Models (LLMs), RAG, LangChain, Agentic Workflows, LLMOps, AI Red Teaming, AI Guardrails, MCP, Claude, ChatGPT, Cursor, GitHub Copilot, Antigravity, n8n, AI agents, LLM evaluation, eval-driven development and prompt engineering.
+- **QA Management:** Jira, Confluence, Zephyr, Xray, TestRail, defect triage, reporting, living documentation.
+- **AI-Augmented QA & Integration:** AI-Augmented QA & Integration: Large Language Models (LLMs), RAG, Multi-Agent Systems, Agent Orchestration, Vector Database Retrieval, Grounding & Hallucination Detection, LangChain, Agentic Workflows, LLMOps, LLM Evaluation, Eval-Driven Development, AI Red Teaming, AI Guardrails, MCP, Claude, ChatGPT, Cursor, GitHub Copilot, Anthropic API, OpenAI API, Azure OpenAI, Gemini, Antigravity, n8n and prompt engineering.
 - **Leadership & Methodologies:** Agile, Scrum, Kanban, remote-first collaboration, stakeholder-friendly reporting.
+- **Regulated QA:** GxP-aligned validation, EU AI Act-aligned traceability, requirement-to-evidence traceability, release sign-off reporting and audit logging.
 
 ---
 
