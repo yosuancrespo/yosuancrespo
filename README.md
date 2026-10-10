@@ -40,6 +40,7 @@ Results-driven Senior QA Lead, AI & Automation Engineer with 18+ years of experi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Gatling](https://img.shields.io/badge/Gatling-FF6B35?style=for-the-badge)
 ![Xray](https://img.shields.io/badge/Xray-3A9A4D?style=for-the-badge)
 ![TestRail](https://img.shields.io/badge/TestRail-0E75C5?style=for-the-badge)
 
@@ -63,16 +64,21 @@ Results-driven Senior QA Lead, AI & Automation Engineer with 18+ years of experi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Collaboration & Test Management
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-00A9E0?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
@@ -104,12 +110,20 @@ Results-driven Senior QA Lead, AI & Automation Engineer with 18+ years of experi
 ![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-000000?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-000000?style=for-the-badge)
+![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-000000?style=for-the-badge)
 ![LLMOps](https://img.shields.io/badge/LLMOps-000000?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge)
+![Eval-Driven Development](https://img.shields.io/badge/Eval--Driven_Development-000000?style=for-the-badge)
 ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge)
+![Grounding & Hallucination Detection](https://img.shields.io/badge/Grounding_%26_Hallucination_Detection-000000?style=for-the-badge)
 ![AI Red Teaming](https://img.shields.io/badge/AI_Red_Teaming-D32F2F?style=for-the-badge)
 ![AI Guardrails](https://img.shields.io/badge/AI_Guardrails-388E3C?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![Vector Database Retrieval](https://img.shields.io/badge/Vector_Database_Retrieval-336791?style=for-the-badge)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-D97757?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
@@ -156,6 +170,9 @@ Results-driven Senior QA Lead, AI & Automation Engineer with 18+ years of experi
 ---
 
 ## Notable projects (startups & corporations)
+
+- 🧬 **[ICON plc](https://www.iconplc.com/)**
+  World's leading clinical research organisation
 
 - 🌐 **[Blubird](https://www.getblubird.com/)**  
   Web3 platform helping companies fast-track their transition into crypto and blockchain
