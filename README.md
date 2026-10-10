@@ -227,12 +227,13 @@ Results-driven Senior QA Lead, AI & Automation Engineer with 18+ years of experi
 ## What I’m interested in
 
 - 🏗️ **Designing scalable QA architectures** for complex systems (FinTech, Blockchain, Web3, DeFi, SaaS, AI-powered applications and other data-driven products).
-- 🤖 **Building AI Integrations & AI-Augmented Testing** using LLMs, RAG, LangChain, Agentic Workflows, LLMOps, LLM Evaluation, AI Red Teaming, AI Guardrails, MCP and automated reasoning.
+- 🤖 **Building AI Integrations & AI-Augmented Testing and Validation** using Multi-Agent Systems, RAG, Vector Database Retrieval, LLM Evaluation, Eval-Driven Development, Grounding & Hallucination Detection, LangChain, Agentic Workflows, LLMOps, AI Red Teaming, AI Guardrails, MCP and automated reasoning.
 - ⚡ **Test automation frameworks** across TypeScript, Python, Java and other stacks (Playwright, Cypress, Selenium, Appium, REST Assured).
 - ☁️ **Infrastructure & DevOps:** Implementing Terraform, Docker, Kubernetes and CI/CD pipelines (AWS, Azure, GCP, OCI).
 - 🔐 **Web3 Validation:** Ensuring security via Smart Contract audits and DApp testing on Ethereum, Solana, Cardano, BSC, among other blockchains.
+- 🧬 **Regulated AI Quality Engineering:** GxP environments, requirement-to-evidence traceability, audit logging and EU AI Act-aligned validation.
 
-If you’d like to collaborate on QA automation, AI-Augmented Testing, Agentic Workflows, Web3 or anything around software engineering, feel free to reach out. 👇  
+If you’d like to collaborate on QA automation, AI-Augmented Testing, AI validation, Agentic Workflows, Web3 or anything around software engineering, feel free to reach out. 👇  
 
 <a href="https://www.linkedin.com/in/yosuancrespo" target="_blank">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
