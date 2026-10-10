@@ -141,7 +141,7 @@ Results-driven Senior QA Lead, AI & Automation Engineer with 18+ years of experi
 
 ## Core skills
 
-- **Test strategy & QA architecture:** Test Planning & Design, regression suites, E2E flows, performance testing, Shift-Left, TDD, BDD, Spec-Driven Development and AI-augmented testing strategies.
+- **Test strategy & QA architecture:** Test Planning & Design, regression suites, E2E flows, performance testing, security testing, Shift-Left, TDD, BDD, Spec-Driven Development and AI-augmented testing strategies.
 - **Automation frameworks:** Playwright, Cypress, Selenium, Appium, Pytest, Vitest, Cucumber, REST Assured, Supertest.
 - **API & integration testing:** REST, GraphQL, RESTful APIs, Postman, Swagger, Service-to-Service Integrations, Gatling, JMeter, k6 and Contract Testing.
 - **Web & backend:** TypeScript, JavaScript, Python, Java, Solidity, Rust, Go, Bash, Node.js, React, SQL (MySQL, PostgreSQL), NoSQL, Vector Databases (pgvector, Pinecone).
