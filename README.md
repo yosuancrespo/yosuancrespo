@@ -172,9 +172,6 @@ Results-driven Senior QA Lead, AI & Automation Engineer with 18+ years of experi
 
 ## Notable projects (startups & corporations)
 
-- 🧬 **[ICON plc](https://www.iconplc.com/)**  
-  World's leading clinical research organisation
-
 - 🌐 **[Blubird](https://www.getblubird.com/)**  
   Web3 platform helping companies fast-track their transition into crypto and blockchain
 
