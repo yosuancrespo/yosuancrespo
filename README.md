@@ -1,6 +1,6 @@
 # Hi, I'm Yosuan 👋
 
-Results-driven Senior QA Lead, AI & Automation Engineer with 18+ years of experience in software quality and strategic delivery. By leveraging AI Engineering (LLMs, Agentic Workflows) and advanced automation, I build scalable frameworks and CI/CD pipelines that elevate product quality, accelerate release cycles and support key business objectives. I specialize in architecting comprehensive testing strategies for complex Web, Mobile (iOS, Android), Web3, Blockchain and AI-powered systems. I also have hands-on experience developing multi-agent AI platforms from scratch in regulated environments, validating RAG pipelines, vector databases and LLM behavior. As a bilingual (English-Spanish) Computer Science Engineer, I specialize in bridging deep technical validation with Agile execution, mentoring cross-functional teams to achieve excellence.
+Results-driven Senior QA Lead, AI & Automation Engineer with 18+ years of experience in software quality and strategic delivery. By leveraging AI Engineering (LLMs, Agentic Workflows) and advanced automation, I build scalable frameworks and CI/CD pipelines that elevate product quality, accelerate release cycles and support key business objectives. I specialize in architecting comprehensive testing strategies for complex Web, Mobile (iOS, Android), Web3, Blockchain and AI-powered systems. I also have hands-on experience developing multi-agent AI platforms from scratch, validating RAG pipelines, vector databases and LLM behavior. As a bilingual (English-Spanish) Computer Science Engineer, I specialize in bridging deep technical validation with Agile execution, mentoring cross-functional teams to achieve excellence.
 
 ---
 
@@ -228,7 +228,6 @@ Results-driven Senior QA Lead, AI & Automation Engineer with 18+ years of experi
 - ⚡ **Test automation frameworks** across TypeScript, Python, Java and other stacks (Playwright, Cypress, Selenium, Appium, REST Assured).
 - ☁️ **Infrastructure & DevOps:** Implementing Terraform, Docker, Kubernetes and CI/CD pipelines (AWS, Azure, GCP, OCI).
 - 🔐 **Web3 Validation:** Ensuring security via Smart Contract audits and DApp testing on Ethereum, Solana, Cardano, BSC, among other blockchains.
-- 🧬 **Regulated AI Quality Engineering:** GxP environments, requirement-to-evidence traceability, audit logging and EU AI Act-aligned validation.
 
 If you’d like to collaborate on QA automation, AI-Augmented Testing, AI validation, Agentic Workflows, Web3 or anything around software engineering, feel free to reach out. 👇  
 
